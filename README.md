@@ -21,3 +21,4 @@ Setup:
   3- Copy your bot's TOKEN and insert it in sexs.py
   4- Copy your channel's id and instert it in sexs.py
   5- Run detect.py and sexs.py seperately.
+  6- Turn on CC on Microsoft Teams
